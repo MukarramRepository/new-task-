@@ -1,0 +1,5 @@
+tfstate_bucket = "my-terraform-state-9700"
+lock_table     = "tf-lock-table"
+bastion_ip     = "103.25.36.45/32"
+db_password    = "Mukarram@123"
+ecr_repo       = "441927526449.dkr.ecr.ap-south-1.amazonaws.com/"

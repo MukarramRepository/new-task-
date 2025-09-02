@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.backup
+*.log
+
+# Terraform provider binaries
+terraform-provider-*
+
+# IDEs
+*.vscode/
+*.idea/
+.terraform/
+.terraform/
+*.tfstate
+*.backup
